@@ -19,7 +19,8 @@ You can view the demo locally by opening `index.html` in your browser.
 
 - HTML5
 - Tailwind CSS
-- Font Awesome (via CDN)
+- Font Awesome (via CDN). 
 
+Good luck
 
 
